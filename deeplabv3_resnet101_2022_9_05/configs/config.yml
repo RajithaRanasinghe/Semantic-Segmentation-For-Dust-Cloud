@@ -1,0 +1,36 @@
+dust:
+    dataset: dust
+
+
+    #For 7k dataset
+    #image_dir: 'data/dataset_7k/train/input/'
+    #mask_dir: 'data/dataset_7k/train/target/'
+    #val_image_dir: 'data/dataset_7k/val/input/'
+    #val_mask_dir: 'data/dataset_7k/val/target/'
+
+
+    #For 897 dataset
+    #image_dir: 'data/dataset_897/train/input/'
+    #mask_dir: 'data/dataset_897/train/target/'
+    #val_image_dir: 'data/dataset_897/val/input/'
+    #val_mask_dir: 'data/dataset_897/val/target/'
+
+
+
+    #For 100 dataset
+    #image_dir: 'data/dataset_100/train/input/'
+    #mask_dir: 'data/dataset_100/train/target/'
+    #val_image_dir: 'data/dataset_100/val/input/'
+    #val_mask_dir: 'data/dataset_100/val/target/'
+
+    #For sample test
+    image_dir: 'data/examples_images/input/'
+    mask_dir: 'data/examples_images/target/'
+    val_image_dir: 'data/examples_images/input/'
+    val_mask_dir: 'data/examples_images/target/'
+
+
+
+
+
+    test_dir: 'data/test/'
